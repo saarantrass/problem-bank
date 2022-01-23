@@ -6,3 +6,7 @@ This repo is used to gather and categorize coding problems used in different cou
 
 * Easy
     * [Hello World Problem](/problems/basics/hello_world.py) 
+
+* conditionals
+    * easy 
+         * [Traffic Problem](/problems/conditionals/traffic_problem.py) 
