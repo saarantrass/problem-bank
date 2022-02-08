@@ -46,6 +46,9 @@ This repo is used to gather and categorize coding problems used in different cou
 | Name | Difficulty | Summary | World | Solution |
 |:----:|:----------:|:-------:|:-----:|:--------:|
 | [Reach The End](python/problems/karel/while_loop/reach_the_end) | Easy | Karel must go rightmost using while loops only | [link](python/problems/karel/while_loop/reach_the_end/reach_the_end.w) | [link](python/problems/karel/while_loop/reach_the_end/solution.py)
+| [Dancing Karel](python/problems/karel/while_loop/reach_the_end) | Easy | Karel must go around and dance | [link](python/problems/karel/while_loop/reach_the_end/reach_the_end.w) | [link](python/problems/karel/while_loop/reach_the_end/solution.py)
+| [Easy Climb](python/problems/karel/while_loop/reach_the_end) | Easy | Karel must climb an easy ladder | [link](python/problems/karel/while_loop/reach_the_end/reach_the_end.w) | [link](python/problems/karel/while_loop/reach_the_end/solution.py)
+| [Difficult Climb](python/problems/karel/while_loop/reach_the_end) | Easy | Karel must climb a challenging ladder | [link](python/problems/karel/while_loop/reach_the_end/reach_the_end.w) | [link](python/problems/karel/while_loop/reach_the_end/solution.py)
 
 
 ## Level 1
