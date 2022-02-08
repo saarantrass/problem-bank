@@ -37,14 +37,21 @@ This repo is used to gather and categorize coding problems used in different cou
 
 | Name | Difficulty | Summary | World | Solution |
 |:----:|:----------:|:-------:|:-----:|:--------:|
+| [Flip Beepers](python/problems/karel/conditionals/flip_beepers) | Easy | Karel must flip beepers while going right | [link](python/problems/karel/conditionals/flip_beepers/flip_beepers.w) | [link](python/problems/karel/conditionals/flip_beepers/solution.py)
+| [The Spiral Maze](python/problems/karel/conditionals/the_spiral_maze) | Medium | Karel must go to the center of the maze and collect all beepers on the way | [link](python/problems/karel/conditionals/the_spiral_maze/the_spiral_maze.w) | [link](python/problems/karel/conditionals/the_spiral_maze/solution.py)
+
+
+### While Loop
+
+| Name | Difficulty | Summary | World | Solution |
+|:----:|:----------:|:-------:|:-----:|:--------:|
+| [Reach The End](python/problems/karel/while_loop/reach_the_end) | Easy | Karel must go rightmost using while loops only | [link](python/problems/karel/while_loop/reach_the_end/reach_the_end.w) | [link](python/problems/karel/while_loop/reach_the_end/solution.py)
 
 
 ## Level 1
 
 ### Conditionals
 
-
-### L
-
+### Loops
 
 # Contribution
