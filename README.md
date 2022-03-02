@@ -46,10 +46,16 @@ This repo is used to gather and categorize coding problems used in different cou
 | Name | Difficulty | Summary | World | Solution |
 |:----:|:----------:|:-------:|:-----:|:--------:|
 | [Reach The End](python/problems/karel/while_loop/reach_the_end) | Easy | Karel must go rightmost using while loops only | [link](python/problems/karel/while_loop/reach_the_end/reach_the_end.w) | [link](python/problems/karel/while_loop/reach_the_end/solution.py)
-| [Dancing Karel](python/problems/karel/while_loop/reach_the_end) | Easy | Karel must go around and dance | [link](python/problems/karel/while_loop/reach_the_end/reach_the_end.w) | [link](python/problems/karel/while_loop/reach_the_end/solution.py)
-| [Easy Climb](python/problems/karel/while_loop/reach_the_end) | Easy | Karel must climb an easy ladder | [link](python/problems/karel/while_loop/reach_the_end/reach_the_end.w) | [link](python/problems/karel/while_loop/reach_the_end/solution.py)
-| [Difficult Climb](python/problems/karel/while_loop/reach_the_end) | Easy | Karel must climb a challenging ladder | [link](python/problems/karel/while_loop/reach_the_end/reach_the_end.w) | [link](python/problems/karel/while_loop/reach_the_end/solution.py)
+| [Dancing Karel](python/problems/karel/while_loop/dancing_karel) | Easy | Karel must go around and dance | [link](python/problems/karel/while_loop/dancing_karel/dancing_karel.w) | [link](python/problems/karel/while_loop/dancing_karel/solution.py)
+| [Easy Climb](python/problems/karel/while_loop/easy_climb) | Easy | Karel must climb an easy ladder | [link](python/problems/karel/while_loop/easy_climb/easy_climb.w) | [link](python/problems/karel/while_loop/easy_climb/solution.py)
 
+
+### Practice Projects
+| Name | Difficulty | Summary | World | Solution |
+|:----:|:----------:|:-------:|:-----:|:--------:|
+|[Collect Rewards](python/problems/karel/practice_problems/collect_rewards)| Easy | Karel has to collect beepers in various conditions | [link](python/problems/karel/practice_problems/collect_rewards) | [link](python/problems/karel/practice_problems/collect_rewards)
+
+|[Karel in the Hospital](python/problems/karel/practice_problems/karel_builds_hospitals) | Easy | Karel has to build several hospitals using beepers | [link](python/problems/karel/practice_problems/karel_builds_hospitals) | [link](python/problems/karel/practice_problems/karel_builds_hospitals)
 
 ## Level 1
 
